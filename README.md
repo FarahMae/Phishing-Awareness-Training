@@ -17,7 +17,7 @@
 
 ## 📂 Project Files
 - [Phishing Awareness Training (PDF)](./Phishing%20Awareness%20Training.pdf)
-- [Phishing Awareness Training (PowerPoint)](./Phishing%20Awareness%20Training%20final.pptx)
+- [Phishing Awareness Training (PowerPoint)]([./Phishing%20Awareness%20Training%20final.pptx](https://docs.google.com/presentation/d/1L1enGmzcY2OWzfnH7nAeYVntnrEEkPixhy92weEIUAA/edit?usp=sharing))
 
 ## 🧪 Interactive Quiz
 Take the quiz here: [Phishing Awareness Quiz](https://forms.gle/zo4oQticQSgP6UqM7)
