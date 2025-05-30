@@ -6,7 +6,6 @@
 
 # CodeAlpha Task 2: Phishing Awareness Training
 
-This project educates users on phishing attacks, using real-world examples, red flag indicators, best security practices, and a knowledge-check quiz.
 
 ## 🔎 Topics Covered
 - What is phishing?
@@ -31,5 +30,3 @@ Take the quiz here: [Phishing Awareness Quiz](https://forms.gle/zo4oQticQSgP6UqM
 - Never click on suspicious links
 
 ---
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Type](https://img.shields.io/badge/Task-PhishingAwareness-blue)
